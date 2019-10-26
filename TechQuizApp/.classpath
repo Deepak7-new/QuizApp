@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="src/resource/libraries/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/cmudict04.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/cmulex.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/en_us.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/freetts.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/mbrola.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/sphinx4-core-5prealpha.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/sphinx4-data-5prealpha.jar"/>
+	<classpathentry kind="lib" path="src/resource/libraries/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

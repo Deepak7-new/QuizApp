@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <name> = ( sachin | Deepak );
+public <user>  = ( admin | student );
+public <command>  = ( login | quit | logout | do task | back );
+public <option>  = ( option one | option two | option three | option four );
+public <word> = ( two | three | four );
+public <letter> = ( five | six | seven );
+public <extra> = ( next | cancel | done | take test);
