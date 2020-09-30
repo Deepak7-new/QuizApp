@@ -12,7 +12,7 @@ It has features like Speech Recognition and Narrator.
 4. Write username and password of your database in DBConnection.java file in Dbutil folder.
 5. Save and run SplashScreen.java file in Gui folder.
 
-## Built With
+## Built With -
 
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html) - Language of implementation
 * [MySQL](https://dev.mysql.com/doc/) - Database
